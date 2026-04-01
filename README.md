@@ -44,17 +44,6 @@ with reproducible code and stakeholder-ready outputs.
 
 ---
 
-### 3. Cancer Trends Analysis — NHS England Open Data *(in progress)*
-*Python | R | Survival Analysis*
-
-Reproducible analysis of cancer incidence trends and outcomes using
-NHS England Cancer Registration Statistics. Survival analysis
-component using MIMIC-III patient-level data.
-
-[View Project](./cancer-trends-analysis)
-
----
-
 ## Background
 - PhD in Cancer Genetics, University of Mumbai
 - LSE Data Analytics Career Accelerator (2025–2026)
