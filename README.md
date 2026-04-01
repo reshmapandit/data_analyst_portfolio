@@ -10,7 +10,7 @@ R, and SQL through the LSE Data Analytics Career Accelerator.
 ## Skills
 - **Languages:** Python (Pandas, NumPy, Scikit-learn), R (tidyverse, 
   survival, ggplot2), SQL
-- **Analytics:** Survival Analysis, Statistical Modelling, Machine 
+- **Analytics:** Statistical Modelling, Machine 
   Learning, NLP, EDA
 - **Visualisation:** Tableau, Matplotlib, Seaborn, ggplot2
 - **Health Data:** NGS/Omics Data, Clinical Genomics, Evidence 
